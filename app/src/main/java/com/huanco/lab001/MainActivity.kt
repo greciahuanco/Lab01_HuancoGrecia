@@ -39,7 +39,8 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
     Column( modifier = modifier ) {
     Text(text = "¡Hola, soy $name!", fontSize = 24.sp)
 
-    Text(text = "curso: Programación en Móviles")}
+    Text(text = "curso: Programación en Móviles")
+    Text(text = "Laboratorio 01") }
 }
 
 @Preview(showBackground = true)
