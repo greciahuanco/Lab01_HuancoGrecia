@@ -40,7 +40,8 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
     Text(text = "¡Hola, soy $name!", fontSize = 24.sp)
 
     Text(text = "curso: Programación en Móviles")
-    Text(text = "Laboratorio 01") }
+    Text(text = "Laboratorio 01")
+    Text(text= "TECSUP")}
 }
 
 @Preview(showBackground = true)
